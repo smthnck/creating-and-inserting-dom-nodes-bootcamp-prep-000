@@ -3,4 +3,3 @@
 var element = document.createElement('div')
 element.style.backgroundColor = '#f9f9f9'
 document.body.appendChild(element)
-<div style=​"background-color:​ rgb(249, 249, 249)​;​">​</div>​
